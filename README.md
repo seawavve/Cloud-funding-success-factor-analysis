@@ -15,6 +15,6 @@ kickstarter 클라우드펀딩 홈페이지에서 프로젝트를 크롤링한 �
 
  데이터 수집 > 데이터 전처리 > 패키지 및 데이터 로드 > 속성과 클래스 마킹 > 데이터 학습 > DecisionTree 표현 및 feature importance 시각화
 
-##결과분석
+## Result
 
 프로젝트의 성공 여부에 가장 크게 영향을 미치는 feature는 후원자의 수 입니다.
