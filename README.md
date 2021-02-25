@@ -39,3 +39,7 @@ kickstarter 클라우드펀딩 홈페이지에서 프로젝트를 크롤링한 �
 ![](https://github.com/seawavve/Cloud-funding-success-factor-analysis/blob/master/img/feature%20importance.png)  
 
 프로젝트의 성공 여부에 가장 크게 영향을 미치는 feature는 **후원자의 수** 입니다.  
+  
+  
+TEAM 크아bnb  
+조한희, 심소현, 전한서  
